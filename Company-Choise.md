@@ -1,12 +1,18 @@
 # Elección de Empresa
-Elijo la empresa Trackflow porque representa un sector que actualmente esta en crecimiento con generación de muchos datos. Soy usuaria de varios retails que entregan los pedidos y como usuaria me gustaría que existan mejoras en el servicio y atención al cliente; lo que me da la oportunidad de automatizar procesos para una mejor eficiencia y productividad de la empresa; una coordinación eficiente con los proveedores y dar una buena experiencia al cliente. Podré no solo automatizar con uso de APIS, sino entrenar datos para brindar recomendaciones usando ML o DL segun sea necesario. 
-Todos los departamentos tienen necidades criticas ser automatizadas. Sin embargo, Manejo de Inventario y Servicio al cliente creo son criticas. El inventario es necesario llevar un stock adecuado de lo que entra y sale con seguimiento del empaque y servicio al cliente porque muchas veces solo se automatiza con datos en pantalla, mientras que muchos clientes requeiren hablar con un agente, lo cual puede ser automatizado con una IA que genere dialogo inteligente con usuario. 
-Un reto de milestone que me gustarua automatizar es la eleccion de la empresa transportista de acuerdo a su ruta y disponibilidad; eso depende de conexion con APIS e información en tiempo real y geolocalizado. Otro reto es tratar de que el servicio al cliente sea accesible facilmente pero dando un dialogo y trato lo mas humanizado posible, pero con IA. 
 
-## Mi idea de Agente de IA
+Elijo la empresa Trackflow por las siguientes razones:
 
-1. Agente de voz para servicio al cliente no solo para dar datos de tracking sino respuesta a problemas como perdidas , dudas del servicio, quejas.
-2. Agente que establezca administre y escoja a la empresa de transporte de acuerdo a disponibilidad, ruta de viaje con datos frescos
-3. Agente que lleve toda el inventario, de entrada y salida
+1. Trackflow esta un sector de alto crecimiento en el mercado, representa problemas reales de las empresas logísticas que requieren innovacoón con tecnología para mejorar su productividad y eficiencia.
+   
+2. Trackflow representa un reto de aprendizaje tanto para generar flujos de procesos integrados y automatizados en todas sus operaciones. Necesita una transformación digital para mejorar su eficiencia; puesto que, cada área tiene su propio software e incluso operaciones manuales; por lo que, integrar con un Saap (ERP) para todos sus operaciones y los dos mercados tanto de Estados Unidos como España, es un reto interesante.
+
+Los departamentos que me parecen interesantes son: a. Operación / Almacén. No tienen automatizado lo que tienen en inventario, ni lo que llega ni lo que sale; por lo que les hace tremendamente ineficiente siendo ésta una de las áreas nucleo del negocio. b. Atención al cliente esta centralizado en una persona que atiende las consultas con las marcas y con los consumidores, siendo dos procesos parecidos, pero con distintos datos. En general, todos los departamentos necesitan una transformación digital empezando desde la revisión e integración de sus procesos hasta la automatización de los mismos. 
+   
+
+## My AI Agent Idea
+
+1. Agente de voz para servicio al cliente no solo para dar datos de tracking sino respuesta a problemas como perdidas, dudas del servicio, quejas
+2. Agente para Ultima Milla, que integre y actualice el estado de las 8 empresas transportistas para tomar la decisión de entrega de paquetes
+3. Agente que lleve todo el inventario, de entrada y salida y el stock y emisión de alerta de reposición 
 4. Agente de entrenamiento de datos con ML que genere recomendaciones de servicios externos
-5. Agente para gestion inversa, devoluciones que sea rápida, facil para el cliente y evite errores.
+5. Agente para gestion inversa, devoluciones que sea rápida, facil para el cliente y las marcas y evite errores
