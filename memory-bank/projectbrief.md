@@ -17,5 +17,6 @@ This leads to delays, errors, avoidable costs, and decisions based on incomplete
 - Unify visibility into and access to operational data across the United States and Spain.
 - Automate workflows for orders, inventory, carrier selection and tracking, returns, and customer support.
 - Provide up-to-date dashboards and reports for operations, customers, and leadership.
+- Give leadership a global, cross-country view of shipment volume, on-time delivery, operating cost, returns, and customer satisfaction; generate the weekly executive report by Monday at 07:00.
 - Apply AI where it adds value: image-based return classification, semantic search, customer assistance, and explainable carrier recommendations.
 - Improve the reliability, efficiency, and scalability of logistics operations while keeping services available for continuous operations.

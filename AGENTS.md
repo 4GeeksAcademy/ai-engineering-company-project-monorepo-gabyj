@@ -11,6 +11,8 @@ Before working on a task, read these files in this order:
 
 Treat `CONTEXT.md` as the company-context source of truth when a task requires details beyond the memory bank or when the documents conflict. Do not assume that anticipated work has been implemented.
 
+For company-specific work, keep the memory bank and agent guidance consistent with `CONTEXT.md`. Distinguish current systems and processes from requested capabilities; do not assume a target stack, KPI formula, reporting timezone, or deployed automation that the source does not specify.
+
 ## Required Workflow Before Every Commit
 
 Do not create a commit unless the developer explicitly requests one. When a commit is requested, complete these steps in order:
